@@ -1,0 +1,6 @@
+view\MainTallerExcepciones.class
+excepcionespersonalizadas\NombreVacioException.class
+com\mycompany\manejoexcepcionesclase10\ManejoExcepcionesClase10.class
+excepcionespersonalizadas\IdDenegadoException.class
+Modelo\Mascota.class
+excepcionespersonalizadas\EdadInvalidaException.class
